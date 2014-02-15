@@ -1,0 +1,5 @@
+1. Add in wheel size calculator so you dont have to set sizs static in file.
+2. Add in support for other transmitions suck and B,H,F and K.
+3. Add in after market gears and FD for all transmitions.
+4. Add in output to show rpm in 5th gear at 65,70 and 75mph.
+5. Add in shift points for previous gear RPM 
